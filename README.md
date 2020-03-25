@@ -1,9 +1,5 @@
 # Solutions for Cracking the Coding Interview
 
-[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/pacocp/Cracking-the-Coding-Interview.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/pacocp/Cracking-the-Coding-Interview/context:python)
-
----
-
 These are my solutions for the [Cracking the Coding Interview Book]( https://www.amazon.com/dp/0984782850/ref=cm_sw_r_tw_dp_U_x_gsLDEbBFMM133) by Gayle Laakmann McDowell. Each solution is coded using Python since it is my language of preference.
 
 ### Chapters and solutions
