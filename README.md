@@ -1,6 +1,6 @@
 # Solutions for Cracking the Coding Interview
 
-[![Total alerts](https://img.shields.io/lgtm/alerts/g/pacocp/Cracking-the-Coding-Interview.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/pacocp/Cracking-the-Coding-Interview/alerts/)
+[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/pacocp/Cracking-the-Coding-Interview.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/pacocp/Cracking-the-Coding-Interview/context:python)
 
 ---
 
